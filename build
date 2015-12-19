@@ -1,0 +1,1 @@
+gcc -g get_nav.c gps_cmn.c write_dat.c -lm -lrt -o r2d
