@@ -1,9 +1,9 @@
 # rnx2dat
-This code is to convert rinex navigation file to dat file, now gps is supported 
+This code is to convert rinex navigation file to binary navigation file, now gps is supported 
 
 It is based on open source project -- rtklib
 
-I just added the functions which convert nav data to binary that can be sent by satellite.
+I just added the functions which convert nav data to binary that can be sent by satellite simulator.
 code maybe a bit simple.
 
 chmod +x build
